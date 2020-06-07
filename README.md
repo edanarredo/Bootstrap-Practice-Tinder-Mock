@@ -1,4 +1,7 @@
 TinDog
 
-This repository is for me to work from my two different computers as
-I get more familiar with different web development tools.
+Tindog is a mock up of the dating-app called "Tinder" created under the guidance of a Udemy instructor
+
+Technologies used - HTML, CSS, Bootstrap 4
+
+

@@ -1,7 +1,9 @@
 TinDog
 
-Tindog is a mock up of the dating-app called "Tinder" created under the guidance of a Udemy instructor
+This is a responsive portfolio website that could be used for a startup whose product/services are delivered primarily through a mobile application (no need for a complex website).
 
-Technologies used - HTML, CSS, Bootstrap 4
+This is supposed to be a mock-up of the real service Tinder.
 
+Technologies used: HTML, CSS, Bootstrap 4
 
+You can view a deployment of the website here: https://edanarredo.github.io/Tinder-Website-Mockup/
